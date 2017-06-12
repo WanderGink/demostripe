@@ -1,1 +1,3 @@
 # demostripe
+
+Test stripe gem
